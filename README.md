@@ -12,17 +12,17 @@ Conducted a Linux cybersecurity lab creating user accounts, assigning varied pas
 
 <p align="center">
 Tasks assigned for the lab:  <br/>
-<img src="IMG_0609.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Tasks.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="User Mangement1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Image 1.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br/>
-<img src="UM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Image2.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="UM3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Image 3.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
